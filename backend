@@ -1,3 +1,0 @@
-mkdir -p backend/database
-mkdir -p frontend/public
-mkdir -p frontend/src
